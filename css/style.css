@@ -1,0 +1,27 @@
+body{
+    background-color:whitesmoke;
+}
+h1{
+    font-family: cursive;
+    color: chocolate;
+    text-align: center;
+}
+#tab{
+    width:500px;
+    height: 200px;
+    background: springgreen;
+    margin: 30px;
+}
+
+table td{
+   background: blanchedalmond;
+   padding: 10px;
+}
+ul{
+    list-style-type:square;
+    color:coral;    
+}
+ol{
+    list-style-type:lower-latin;
+    color:olive;    
+}
